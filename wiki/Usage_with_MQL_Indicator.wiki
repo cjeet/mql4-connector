@@ -1,6 +1,6 @@
 == Usage with MQL indicator ==
 
-In order to convert and use an MQL indicator/strategy in JForex, first one has to convert the source code, which can be done with Converter Client (download TODO:!!!!!). Launch the application by clicking on ConverterClient.bat and then just select the source code file and if it is an indicator or a strategy. In this case we convert a strategy from examples:
+In order to convert and use an MQL indicator/strategy in JForex, first one has to convert the source code, which can be done with Converter Client (download http://mql4-connector.googlecode.com/files/ConverterClient%201.0.zip). Launch the application by clicking on ConverterClient.bat and then just select the source code file and if it is an indicator or a strategy. In this case we convert a strategy from examples:
 
 [https://lh3.googleusercontent.com/-w428qjtn7Ro/TqVVYBFFhQI/AAAAAAAAAA8/oQP9W8oiLRY/s660/ConverterClient%2525200.png]
 
